@@ -7,6 +7,10 @@
 }
 
 /* Write CSS code below */
+.left-section{
+    grid-column:span;
+    background-color:#242531;
+}
 .left-content{
     padding: 1rem;
 
