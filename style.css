@@ -72,3 +72,12 @@
     .main-content{
         grid-template-columns: repeat(1,1fr);
     }
+
+   .main-content{
+       min-height:1000px;
+       width:90%;
+       dispaly:grid;
+       margin: 20px auto;
+       grid-template-columns: 300px 700px;
+         
+    }
