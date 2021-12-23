@@ -7,3 +7,59 @@
 }
 
 /* Write CSS code below */
+.left-content{
+    padding: 1rem;
+
+
+}
+.profile-image{
+    display: block;
+    margin: auto;
+    border: 5px;
+    border-radius: 30%;
+    width: 60%;
+}
+.name{
+    font-size: 1.2rem;
+    padding: 0.8rem;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.02px;
+
+}
+.designation{
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.description{
+    font-size: 0.75rem;
+    text-align: center;
+    padding : 1rem;
+
+}
+.skills{
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1rem 0.5rem;
+}
+.skills-name{
+    font-size: 0.65rem;
+    font-weight: 0.65rem;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+.progress-bar{
+    border: 1px white solid ;
+    width: 70%;
+    height: 4px;
+
+}
+.right-main-content{
+    font: optional;
+    
+}
