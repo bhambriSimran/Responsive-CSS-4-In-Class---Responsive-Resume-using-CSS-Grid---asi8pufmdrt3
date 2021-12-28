@@ -96,7 +96,7 @@
       }
   }
 
-  @media screen and (max-width: 674px) {
+  @media screen and (max-width: 673px) {
     .main-content {
       min-height: 1000px;
       width: 90%;
